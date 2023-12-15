@@ -36,5 +36,5 @@ extern bus_t bus;
 
 void f_stack(stack_t **head, unsigned int counter);
 void free_stack(stack_t *head);
-
+void f_stack(stack_t **head, unsigned int counter);
 #endif
